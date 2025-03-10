@@ -14,5 +14,4 @@ You can run the app with:
 
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 
-Please follow the rules fellas !!
-Saying again follow the rules !!
+Risk it all !!
